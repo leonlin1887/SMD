@@ -1,5 +1,3 @@
----
-
 #  Processing step
 1. Delete emails on Application or Webisite
 2. Compact OST file  
