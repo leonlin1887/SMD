@@ -63,9 +63,3 @@ File
 
 ---
 
-# ✅ Summary
-
-Delete Emails → Free space  
-Empty Deleted → Permanently remove  
-Compact OST → Reduce file size
-
