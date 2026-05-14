@@ -1,9 +1,3 @@
-##  Objective
-When Outlook OST file exceeds **45GB**, it may cause:
-- Slow performance
-- Sync issues
-- Crashes
-
 ---
 
 #  Processing step
