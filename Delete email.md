@@ -12,7 +12,7 @@
 https://outlook.office.com
 
 ###  Filter large emails:
-hasattachments:yes
+has attachments:yes
 or
 size:>10MB
 
