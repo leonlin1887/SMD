@@ -4,7 +4,7 @@
 
 ---
 
-#  Step 1: Delete Emails (Recommended: Web)
+#  Step 1: Delete Emails (Recommended: Website Outlook)
 
 ##  Method: Outlook Web
 
